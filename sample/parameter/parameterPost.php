@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>postParameter</title>
     <!-- CSSファイル -->
-    <link rel="stylesheet" href="http://localhost/Tomoaki-s1211/sample/csslib/akafuto.css"> <!-- 赤い太字用 -->
+    <link rel="stylesheet" href="./akafuto.css"> <!-- 赤い太字用 -->
 </head>
 <body>
     <p>str1は、 <span class="akafutoji"><?php echo($_POST['str1']);?></span>です。</p>
