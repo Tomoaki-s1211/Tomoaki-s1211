@@ -7,10 +7,6 @@
     <title>taskBranch</title>
 </head>
 <body>
-    <p><?php echo('回答を<p>タグで囲み、回答を出力してください。'); ?></p>
-    <p><?php echo('回答例: 1 + 1 = ' . (1 + 1) . 'です。'); ?></p>
-</body>
-<body>
     <?php
         echo('<p>課題1</p>');
         echo('<p>課題1-1</p>');
